@@ -1,5 +1,5 @@
 # Work
-This is a pc-run, able to import students a semester schedule, create a new schedule or task or job, by setting the level of importance and the need to remind the date to the user to remind and show the contents of the schedule
+- 这是一个电脑运行，能够导入学生一个学期的时间表，创建一个新的时间表或任务或工作，通过设置重要程度和需要提醒日期给用户提醒和显示时间表内容
 # INSTALL
 -项目用c++书写，你可以选择某个模块书写；
 基本要求是电脑上有c++的编译程序，推荐vs和sublime；
